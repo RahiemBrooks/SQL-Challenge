@@ -36,6 +36,7 @@ Data analysis is performed to answer specific questions using SQL queries. The a
  <img width="339" alt="q5" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/4457e5bb-1928-442d-8768-b52c703e8371">
 
 - **Question 6:** List employees in the Sales department.
+  
   <img width="418" alt="q6" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/b2d31dd7-1ab9-4549-821f-8cf8b65b9d3b">
 
 - **Question 7:** List employees in the Sales and Development departments.
