@@ -5,12 +5,10 @@ The project involves analyzing employee data from a fictional company named Pewl
 ## Data Modeling
 
 For data modeling, I've designed an Entity Relationship Diagram (ERD) using the QuickDBD tool. The ERD showcases the relationships between different entities and their attributes.
-[QuickDBD-export.pdf](https://github.com/RahiemBrooks/SQL-Challenge/files/12346797/QuickDBD-export.pdf)
 
-![QuickDBD-export](https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/49d26751-d1a1-4120-b7b8-694ae6ff9b02)
+![Entity Relationship Diagram](screenshots/erd/QuickDBD-export.png)
 
-
-<img width="835" alt="erd" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/36368f7b-fa7d-4770-a491-106ab3c1e40b">
+The ERD image can be found in the [ERD folder](screenshots/), along with the code used to generate it.
 
 ## Data Engineering
 
@@ -21,26 +19,25 @@ In the data engineering phase, I've created SQL scripts to build the necessary t
 Data analysis is performed to answer specific questions using SQL queries. The analysis results, along with screenshots, are presented in the [Query Images folder](screenshots/query/).
 
 - **Question 1:** List employee details with employee number, last name, first name, sex, and salary.
- <img width="484" alt="q1" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/51c92031-9bcf-435f-be9b-e2cc341f48f1">
+  ![Question 1 Result](screenshots/query/q1.PNG)
 
 - **Question 2:** List first name, last name, and hire date for employees hired in 1986.
- <img width="293" alt="q2" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/3771d3c5-338f-49ad-b419-30096a98741d">
+  ![Question 2 Result](screenshots/query/q2.PNG)
 
 - **Question 3:** List the manager of each department along with relevant details.
- <img width="452" alt="q3" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/1a7b84f5-7782-46cd-b4ed-e94c30007fad">
+  ![Question 3 Result](screenshots/query/q3.PNG)
 
 - **Question 4:** List department number along with employee details.
-  <img width="567" alt="q4" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/0de5da28-76c4-48a3-bca1-12372a0a6a73">
+  ![Question 4 Result](screenshots/query/q4.PNG)
 
 - **Question 5:** List employees named Hercules with specific criteria.
- <img width="339" alt="q5" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/4457e5bb-1928-442d-8768-b52c703e8371">
+  ![Question 5 Result](screenshots/query/q5.PNG)
 
 - **Question 6:** List employees in the Sales department.
-  
-  <img width="418" alt="q6" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/b2d31dd7-1ab9-4549-821f-8cf8b65b9d3b">
+  ![Question 6 Result](screenshots/query/q6.PNG)
 
 - **Question 7:** List employees in the Sales and Development departments.
- <img width="417" alt="q7" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/a4bd1fd0-c329-473b-a518-6fedaa245ba3">
+  ![Question 7 Result](screenshots/query/q7.PNG)
 
 - **Question 8:** List frequency counts of employee last names.
-<img width="212" alt="q8" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/8c821be1-7410-4654-a24c-3d3154bf1bcf">
+  ![Question 8 Result](screenshots/query/q8.PNG)
