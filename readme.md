@@ -5,10 +5,12 @@ The project involves analyzing employee data from a fictional company named Pewl
 ## Data Modeling
 
 For data modeling, I've designed an Entity Relationship Diagram (ERD) using the QuickDBD tool. The ERD showcases the relationships between different entities and their attributes.
+[QuickDBD-export.pdf](https://github.com/RahiemBrooks/SQL-Challenge/files/12346797/QuickDBD-export.pdf)
 
-![Entity Relationship Diagram](screenshots/erd/QuickDBD-export.png)
+![QuickDBD-export](https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/49d26751-d1a1-4120-b7b8-694ae6ff9b02)
 
-The ERD image can be found in the [ERD folder](screenshots/), along with the code used to generate it.
+
+<img width="835" alt="erd" src="https://github.com/RahiemBrooks/SQL-Challenge/assets/135518113/36368f7b-fa7d-4770-a491-106ab3c1e40b">
 
 ## Data Engineering
 
